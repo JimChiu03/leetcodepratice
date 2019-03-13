@@ -14,5 +14,5 @@
 最後  再輸出判斷式上判斷是否有溢位的狀況<br><br><br>
 
 [與其他soluction效能比較]<br>
-Your runtime beats 84.30 % of javascript submissions.
+Your runtime beats 84.30 % of javascript submissions.<br>
 Your memory usage beats 93.94 % of javascript submissions.
