@@ -29,3 +29,7 @@ Output: "III"
 3. 2運算完畢後, 把對應的陣列A的資料按照羅馬數字來轉換並存到陣列B
 4. 對陣列B的字串加總並回傳回去
 （remark 中間回傳資料須注意陣列的起點在哪）
+
+[與其他solution效能比較]<br>
+Your runtime beats 75.34 % of javascript submissions.
+
