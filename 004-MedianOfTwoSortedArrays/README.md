@@ -22,5 +22,5 @@ The median is (2 + 3)/2 = 2.5
 並對其排序, 之後再依照數列總數為奇數或是偶數的狀況做運算 <br><br>
 
 [與其他人solution比較]<br>
-Your runtime beats 63.83 % of javascript submissions.
+Your runtime beats 63.83 % of javascript submissions.<br>
 Your memory usage beats 39.51 % of javascript submissions.
