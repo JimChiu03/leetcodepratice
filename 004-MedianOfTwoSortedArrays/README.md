@@ -17,6 +17,10 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 
-[解題構想]
-讀出nums1與nums2至新創的空矩陣
-並對其排序, 之後再依照數列總數為奇數或是偶數的狀況做運算
+[解題構想] <br>
+讀出nums1與nums2至新創的空矩陣 <br>
+並對其排序, 之後再依照數列總數為奇數或是偶數的狀況做運算 <br><br>
+
+[與其他人solution比較]<br>
+Your runtime beats 63.83 % of javascript submissions.
+Your memory usage beats 39.51 % of javascript submissions.
