@@ -31,3 +31,7 @@ Output: 3
 4. 先把array A的array A[0]付予array B
 5. 對array的資訊判讀, 依序從array A[1]開始依照羅馬數字的邏輯回帶至array B
 6. 對array B中的內容進行加總　並把結果回傳出去
+
+[與其他solution效能比較] <br>
+Your runtime beats 72.65 % of javascript submissions.<br>
+Your memory usage beats 18.89 % of javascript submissions.
