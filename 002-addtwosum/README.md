@@ -8,6 +8,11 @@ Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
-[解題構想]
-此題主要是對兩個串列進行加總 -> 進位
-所以使用while來判斷串列進行時的狀況來進行運算加總 並回傳結果給函式
+[解題構想]<br>
+此題主要是對兩個串列進行加總 -> 進位 <br>
+所以使用while來判斷串列進行時的狀況來進行運算加總 並回傳結果給函式 <br>
+
+[與其他人的solution比較狀況] <br>
+Your runtime beats 70.83 % of javascript submissions<br>
+Your memory usage beats 61.93 % of javascript submissions.
+
