@@ -29,7 +29,7 @@ P     I<br>
 2. 先用if宣告num of row =1的狀況 (不做運算直接回傳字串)<br>
 3. 解析zigzag邏輯  整個字串可以分成 頭 身 尾 三部分<br>
 4. 針對頭尾的部分先寫好程式<br>
-5. 再針對身體的部分做程式描寫 <br>
+5. 再針對身體的部分做程式描寫  暫時只能想出雙重for迴圈並一次掃兩個數字的方式來符合題目邏輯<br>
 
 [與其他solution比較]:
 Your runtime beats 84.82 % of javascript submissions.
