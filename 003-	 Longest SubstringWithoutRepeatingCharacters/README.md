@@ -24,3 +24,5 @@ Explanation: The answer is "wke", with the length of 3.
              4. 對3回傳的資料, 每次都對counter做比較, 只要counter比回傳的字串長, 立即更新字串長度 
              
          
+根其他解法比較效率<br>
+Your runtime beats 95.95 % of javascript submissions.
