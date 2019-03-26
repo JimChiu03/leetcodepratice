@@ -17,3 +17,6 @@ Because nums[0] + nums[1] = 2 + 7 = 9, return [0, 1].
 [跟其他解題方式比較]<br>
 Your runtime beats 37.07 % of javascript submissions.<br>
 Your memory usage beats 47.75 % of javascript submissions.
+
+[03/26/2019更新 V2]
+Runtime: 100 ms, faster than 53.23% of JavaScript online submissions for Two Sum.
