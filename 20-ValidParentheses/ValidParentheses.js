@@ -1,3 +1,7 @@
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
 var isValid = function(s) {
 
   if (s === null || s.length <= 0) return true;
@@ -7,10 +11,10 @@ var isValid = function(s) {
         if (c === '[') stack.push(']');
         else if (c === '{') stack.push('}');
         else if (c === '(') stack.push(')');
-        else if(c === ')' && c===stack.pop()) continue;     
-        else if(c === '}' && c===stack.pop()) continue;  
-        else if(c === ']' && c===stack.pop()) continue;  
-        else return false;
+     //   else if (c !== stack.pop()) return false;
+        else if(c!==stack.pop()) return false;     
+ 
+
     }
     if (stack.length === 0) return true;
 
