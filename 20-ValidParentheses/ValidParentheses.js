@@ -11,7 +11,6 @@ var isValid = function(s) {
         if (c === '[') stack.push(']');
         else if (c === '{') stack.push('}');
         else if (c === '(') stack.push(')');
-     //   else if (c !== stack.pop()) return false;
         else if(c!==stack.pop()) return false;     
  
 
